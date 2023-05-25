@@ -54,9 +54,11 @@ class studentAdmin(admin.ModelAdmin):
 ```
 ## OUTPUT
 ## server output:
+![dk ser](https://github.com/Dineshkarthick27/django-orm-app/assets/120552008/965967d4-0755-4dc5-951d-d5cd4e0a13fe)
 
 ## client output:
 
+![dk cline](https://github.com/Dineshkarthick27/django-orm-app/assets/120552008/5fcfee4e-5f5c-427c-9ed7-98fc3a8c77ce)
 
 ## RESULT
 The program for creating an student database using ORM is executed sucessfully.
